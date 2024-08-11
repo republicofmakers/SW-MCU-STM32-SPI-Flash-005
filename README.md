@@ -23,4 +23,4 @@ This fuctions can save you time if you creating your project with winbond flash.
 Hope this helps you,
 
 Ceyhun Pempeci
-STM32 Blink
+STM32 SPI Flash
